@@ -13,7 +13,9 @@ header>img{
 }
 header>nav{
     height: fit-content;
-    font-family: Arial;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
     position: absolute;
     right: 10px;
     top: 0;
@@ -30,7 +32,9 @@ header>nav>ul>li{
 
 main{
     position: relative;
-    font-family: Arial;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 main>aside{
     background: rebeccapurple;
@@ -94,6 +98,8 @@ footer>div{
     color: white;
     text-align: center;
     padding: 10px 0px;
-    font-family: Arial;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 
